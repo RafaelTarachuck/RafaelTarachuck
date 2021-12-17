@@ -34,13 +34,14 @@
  
  #### 📚 Tenho conhecimento básico:
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
- ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=Power-BI)
+ ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=Tableau)
  
  #### 🌱 Estou aprendendo:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![TensorFlow](https://img.shields.io/badge/-Tensor%20Flow-black?style=flat-square&logo=TensorFlow)
   
   ##
   
