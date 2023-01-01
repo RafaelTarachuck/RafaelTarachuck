@@ -1,10 +1,10 @@
 ### Olá, sou o Rafael Tarachuck <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
-<p> - 👨‍💻 Fui comprador por anos e foi onde notei como as ferramentas ligadas a dados poderiam me ajudar. Foi assim que decidi mudar de carreira e hoje procuro oportunidade como analista de dados ou cientista de dados junior. </p>
-<p> - 👨‍🎓 Sou formado em ciências econômicas. </p>
+<p> - 👨‍💻 Analista de dados </p>
+<p> - 👨‍🎓 Formado em ciências econômicas. </p>
 <p> - 🎯 Interesse: Python, análise de dados, machine learning e deep learning. </p>
-<p> - 📈 Sou muito interessado no mercado financeiro e principalmente em análise técnica. Cheguei a aprender MQL5 para desenvolver robôs e indicadores para Meta Trader 5 (pode encontrar alguns projetos meus em MQL5 aqui no Github). </p>
+<p> - 📈 Apaixonado por mercado financeiro e tudo no mundo dos negócios. </p>
 
 ##
 
