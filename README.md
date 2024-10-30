@@ -32,7 +32,7 @@
  ![Metabase](https://img.shields.io/badge/-Metabase-black?style=flat-square&logo=Metabase)
  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
- ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+ ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=Databricks)
   
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
