@@ -30,6 +30,9 @@
  ![DBT](https://img.shields.io/badge/-DBT-black?style=flat-square&logo=DBT)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=Mongodb)
  ![Metabase](https://img.shields.io/badge/-Metabase-black?style=flat-square&logo=Metabase)
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
   
  #### 🎲 Ciência de dados:
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
@@ -39,10 +42,6 @@
  #### 📚 Tenho conhecimento básico:
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  
- #### 🌱 Estou aprendendo:
- ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
- ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
-  
   ##
   
   ## Contato:
